@@ -1,7 +1,7 @@
 README
 
 I hosted this project on local host on Apache and MySQL. I then tunneled the web through NGROK to test payments and other functionality
-Payment system integrated is PayU in Poland, however the payent system in test environment (SAndbox) is not available on localhost. 
+Payment system integrated is PayU in Poland, however the payent system in test environment (Sandbox) is not available on localhost and has to be either tunneled or the website hosted in the internet
 
 
 Admin credentials
